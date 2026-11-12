@@ -1,135 +1,188 @@
-  <!-- ===================== HEADER ===================== -->
-  <div align="center">
+<!-- ===================== HEADER ===================== -->
+<div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c53
-  64&height=200&section=header&text=Hey,%20I'm%20YOUR_NAME%20👋&fontSize=42&fontColor=ffffff&an
-  imation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20•%20Builder%20•%20Lifelong%20Learner&
-  descAlignY=58&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:121216,55:2a2418,100:1d3a3a&height=220&section=header&text=Teddy%20Gandon&fontSize=56&fontColor=E8D9B5&animation=fadeIn&fontAlignY=38&desc=Leading%20engineering%20teams%20across%20borders&descAlignY=60&descSize=18" width="100%"/>
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=100
-  0&color=38BDF8&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+🚀;Crafting+clea
-  n+%26+scalable+code+✨;Turning+coffee+into+products+☕;Always+learning+something+new+📚" 
-  alt="Typing SVG" />
-  </a>
+<a href="https://teddygandon.github.io">
+  <img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=600&size=24&pause=1200&color=D4A85A&center=true&vCenter=true&width=720&lines=Head+of+Engineering+%40+Believe;20+years+of+engineering%2C+15+in+leadership;Specialized+in+multicultural+management+🌍;30%2B+engineers+across+three+continents;Still+coding%2C+on+purpose+⌨️" alt="Typing SVG" />
+</a>
 
-  <br/>
+<br/>
 
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/Li
-  nkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://YOUR_PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-111827?
-  style=for-the-badge&logo=googlechrome&logoColor=38BDF8"/></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the
-  -badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://x.com/YOUR_HANDLE"><img 
-  src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+<a href="https://teddygandon.github.io"><img src="https://img.shields.io/badge/Portfolio-121216?style=for-the-badge&logo=googlechrome&logoColor=D4A85A"/></a>
+<a href="https://www.linkedin.com/in/teddygandon/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://medium.com/believe-tech"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>
+<a href="https://teddygandon.github.io/teddy-gandon-resume.pdf"><img src="https://img.shields.io/badge/Resume-2a2418?style=for-the-badge&logo=readdotcv&logoColor=D4A85A"/></a>
 
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=38bdf
-  8&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=TeddyGandon&label=Profile%20views&color=d4a85a&style=flat-square" />
 
-  </div>
+</div>
 
-  ---
+---
 
-  ### 🧑‍ About Me
+### 🧭 About Me
 
-  ```ts
-  const me = {
-    name: "YOUR_NAME",
-    location: "🌍 YOUR_CITY",
-    role: "Software Engineer",
-    currentlyWorkingOn: ["folio — my personal portfolio", "Side projects 🛠️ "],
-    currentlyLearning: ["Rust", "System Design", "AI tooling"],
-    askMeAbout: ["Web dev", "TypeScript", "Clean architecture"],
-    funFact: "I debug better after a good espresso ☕",
-  };
-  ```
+> Twenty years of engineering, specialized in multicultural management.
+> I build teams that ship calmly and deliberately across languages, time zones, and working styles.
 
-  ---
+```ts
+const teddy = {
+  role: "Head of Engineering, outsourcing",
+  company: "Believe 🎵",
+  leading: "30+ engineers worldwide, through engineering managers",
+  focus: ["Multicultural management", "Operational frameworks", "AI-assisted engineering"],
+  aiToolbox: ["Claude", "Gemini", "GitHub Copilot"],
+  sideQuests: ["Card games on Steam 🃏", "Open-source tooling 🛠️", "Writing ✍️"],
+  motto: "Pragmatic solutions over perfect ones.",
+};
+```
 
-  ### 🛠️  Tech Stack
+<div align="center">
 
-  <div align="center">
+| 🏗️ **20** | 🧑‍🤝‍🧑 **15** | 🏢 **4** |
+|:---:|:---:|:---:|
+| Years of engineering | Years in leadership | Companies, one throughline |
 
-  **Languages**
+</div>
 
-  <img src="https://skillicons.dev/icons?i=ts,js,python,go,html,css&theme=dark" />
+---
 
-  **Frameworks & Libraries**
+### 🗺️ Journey
 
-  <img 
-  src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,vite&theme=dark" />
+| Period | Role | Where |
+|:---|:---|:---|
+| **2026 → Today** | 🚀 Head of Engineering, outsourcing | **Believe** |
+| **2022 → 2026** | 🧭 Engineering Manager (20 engineers in India, 3 EMs) | **Believe** |
+| **2015 → 2021** | ⚙️ Senior Backend Team Lead, high-volume programmatic bidding | **Jellyfish** (formerly Tradelab) |
+| **2011 → 2015** | 🧠 CTO, Platform Development Director | **One Heart Communication** |
+| **2007 → 2011** | 💻 PHP / JS / ActionScript / Flex Developer | **Cho You** |
 
-  **Databases, Cloud & DevOps**
+---
 
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,aws,cloudflare,githuba
-  ctions&theme=dark" />
+### 🛠️ Tech Stack
 
-  **Tools**
+<div align="center">
 
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux&theme=dark" />
+**Languages**
 
-  </div>
+<img src="https://skillicons.dev/icons?i=php,ts,js,mysql,cs,py&theme=dark" />
 
-  ---
+**Frameworks**
 
-  ### 🚀 Featured Projects
+<img src="https://skillicons.dev/icons?i=nestjs,express,laravel,symfony,vue,react,angular,bootstrap,tailwind&theme=dark" />
 
-  <div align="center">
+**Data, Cloud & DevOps**
 
-  <a href="https://github.com/YOUR_USERNAME/folio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=folio
-  &theme=tokyonight&hide_border=true&bg_color=0d1117" />
-  </a>
-  <a href="https://github.com/YOUR_USERNAME/PROJECT_2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJE
-  CT_2&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-  </a>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,elasticsearch,rabbitmq,docker,kubernetes,gcp,aws,firebase,ansible,terraform,githubactions&theme=dark" />
 
-  </div>
+**Tools**
 
-  ---
+<img src="https://skillicons.dev/icons?i=git,github,unity,ps,ai&theme=dark" />
 
-  ### 📊 GitHub Stats
+**AI-assisted engineering**
 
-  <div align="center">
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white"/>
 
-  <img height="170" 
-  src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=
-  tokyonight&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_US
-  ERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" />
+**Management**
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonig
-  ht&hide_border=true&background=0d1117" />
+<img src="https://img.shields.io/badge/Leadership-2a2418?style=flat-square&logoColor=D4A85A"/>
+<img src="https://img.shields.io/badge/Managing%20Managers-2a2418?style=flat-square"/>
+<img src="https://img.shields.io/badge/Intercultural%20Management-2a2418?style=flat-square"/>
+<img src="https://img.shields.io/badge/Operational%20Frameworks-2a2418?style=flat-square"/>
+<img src="https://img.shields.io/badge/Coaching-2a2418?style=flat-square"/>
+<img src="https://img.shields.io/badge/Hiring-2a2418?style=flat-square"/>
+<img src="https://img.shields.io/badge/Stakeholder%20Management-2a2418?style=flat-square"/>
+<img src="https://img.shields.io/badge/Agile%20%2F%20Scrum-2a2418?style=flat-square"/>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=
-  tokyo-night&hide_border=true&bg_color=0d1117&area=true" width="100%" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" />
+</div>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0d1117" />
+---
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true" width="100%" />
+### 🚀 Side Projects
 
-  </div>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🃏 <a href="https://store.steampowered.com/app/3307700/The_First_Spine__Arena/">The First Spine – Arena</a></h4>
+      <p>Free-to-play PvP duel: two wizards summon creatures and cast spells across a 7×7 grid shaped by environmental hazards. Level-based matchmaking, seasonal rulesets, cross-platform play.</p>
+      <img src="https://img.shields.io/badge/Steam-Early%20Access%20·%20May%202026-1b2838?style=flat-square&logo=steam&logoColor=white"/>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📖 <a href="https://store.steampowered.com/app/1935960/Drifters_Tales/">Drifter's Tales</a></h4>
+      <p>A dark fantasy card battler told across thirteen branching stories inspired by classic game books. Tactical board combat, 80 unique cards.</p>
+      <img src="https://img.shields.io/badge/Steam-Released%20July%202022-1b2838?style=flat-square&logo=steam&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🧱 <a href="https://github.com/thefirstspine-org">The First Spine platform</a></h4>
+      <p>The open-source backend behind both games: NestJS microservices for matchmaking and game-instance orchestration, real-time WebSockets, chat rooms, shared types and deployment tooling.</p>
+      <img src="https://img.shields.io/badge/21%20repos-TypeScript%20·%20NestJS%20·%20Docker-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+      <img src="https://img.shields.io/badge/License-MPL--2.0-D4A85A?style=flat-square"/>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🤖 <a href="https://github.com/TeddyGandon/squadron">Squadron</a></h4>
+      <p>Replacing a squad with three AI agents — a coder, a reviewer and a tester — turning a GitHub issue into a merged PR. Main finding: <i>agents don't fix poor requirements.</i></p>
+      <img src="https://img.shields.io/badge/GitHub%20Actions-Copilot%20CLI-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>📨 <a href="https://github.com/TeddyGandon/appipeline">Appipeline</a></h4>
+      <p>A job-hunting pipeline driven by GitHub issues: drop in a job description, get a tailored resume, cover letter, profile summary and drafted application answers.</p>
+      <img src="https://img.shields.io/badge/JavaScript-GitHub%20Actions-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🌐 <a href="https://github.com/TeddyGandon/teddygandon.github.io">teddygandon.github.io</a></h4>
+      <p>This portfolio: Vue 3 + Vite + Bulma, EB Garamond typography, a Markdown articles engine, and daily jobs that sync Medium, LeadDev and LinkedIn posts.</p>
+      <img src="https://img.shields.io/badge/Vue%203-Vite%20·%20Bulma-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/>
+    </td>
+  </tr>
+</table>
 
-  ---
+---
 
-  ### 🏆 Trophies
+### ✍️ Latest Writing
 
-  <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" />
-  </div>
+- 🧑‍🏫 [**Turning engineers into managers**](https://teddygandon.github.io/articles/turning-engineers-into-managers) — *Nov 2026*
+- 🤖 [**Squadron, or why agents don't fix poor requirements**](https://teddygandon.github.io/articles/squadron) — *Nov 2026*
+- 🧰 [**Using AI tools for managing**](https://teddygandon.github.io/articles/using-ai-tools-for-managing) — *Oct 2026*
+- 📨 [**Appipeline, or the frictions of applying for a job**](https://teddygandon.github.io/articles/appipeline) — *Oct 2026*
+- ⌨️ [**Why do I still code?**](https://teddygandon.github.io/articles/why-do-i-still-code) — *Oct 2026*
+- 🌍 [**What multicultural management actually means, day after day**](https://medium.com/believe-tech/what-multicultural-management-actually-means-day-after-day-26455c58ec5f) — *on Medium · Believe Tech*
 
-  ---
+<p align="right"><a href="https://teddygandon.github.io/articles">➜ All articles</a></p>
 
-  <div align="center">
+---
 
-  ### 💬 *"Simplicity is the soul of efficiency."*
+### 🎓 Certifications
 
-  ⭐ Thanks for stopping by! Feel free to explore my repos and reach out. ⭐
+<img src="https://img.shields.io/badge/Google%20Cloud-Digital%20Leader-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google-Project%20Management-34A853?style=for-the-badge&logo=google&logoColor=white"/>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
+---
 
-  </div>
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=TeddyGandon&show_icons=true&hide_border=true&bg_color=121216&title_color=D4A85A&icon_color=5FB3A8&text_color=E8D9B5&include_all_commits=true&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeddyGandon&layout=compact&hide_border=true&bg_color=121216&title_color=D4A85A&text_color=E8D9B5&langs_count=8" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TeddyGandon&hide_border=true&background=121216&ring=D4A85A&fire=D4A85A&currStreakLabel=D4A85A&sideLabels=E8D9B5&currStreakNum=E8D9B5&sideNums=E8D9B5&dates=8A8070&stroke=2a2418" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 💬 *"Your proofs are not their proof."*
+
+Thanks for stopping by. Grab a [resume](https://teddygandon.github.io/teddy-gandon-resume.pdf), read an [article](https://teddygandon.github.io/articles), or say hi on [LinkedIn](https://www.linkedin.com/in/teddygandon/). 👋
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1d3a3a,45:2a2418,100:121216&height=120&section=footer" width="100%"/>
+
+</div>
