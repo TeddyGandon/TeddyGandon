@@ -94,6 +94,8 @@ const teddy = {
 
 </div>
 
+<!--
+
 ---
 
 ### 🚀 Side Projects
@@ -150,6 +152,8 @@ const teddy = {
 - 🌍 [**What multicultural management actually means, day after day**](https://medium.com/believe-tech/what-multicultural-management-actually-means-day-after-day-26455c58ec5f) — *on Medium · Believe Tech*
 
 <p align="right"><a href="https://teddygandon.github.io/articles">➜ All articles</a></p>
+
+-->
 
 ---
 
