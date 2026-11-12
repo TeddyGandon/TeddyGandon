@@ -3,10 +3,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:121216,55:2a2418,100:1d3a3a&height=220&section=header&text=Teddy%20Gandon&fontSize=56&fontColor=E8D9B5&animation=fadeIn&fontAlignY=38&desc=Leading%20engineering%20teams%20across%20borders&descAlignY=60&descSize=18" width="100%"/>
 
-<a href="https://teddygandon.github.io">
-  <img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=600&size=24&pause=1200&color=D4A85A&center=true&vCenter=true&width=720&lines=Head+of+Engineering+%40+Believe;20+years+of+engineering%2C+15+in+leadership;Specialized+in+multicultural+management+🌍;30%2B+engineers+across+three+continents;Still+coding%2C+on+purpose+⌨️" alt="Typing SVG" />
-</a>
-
 <br/>
 
 <a href="https://teddygandon.github.io"><img src="https://img.shields.io/badge/Portfolio-121216?style=for-the-badge&logo=googlechrome&logoColor=D4A85A"/></a>
@@ -154,26 +150,6 @@ const teddy = {
 - 🌍 [**What multicultural management actually means, day after day**](https://medium.com/believe-tech/what-multicultural-management-actually-means-day-after-day-26455c58ec5f) — *on Medium · Believe Tech*
 
 <p align="right"><a href="https://teddygandon.github.io/articles">➜ All articles</a></p>
-
----
-
-### 🎓 Certifications
-
-<img src="https://img.shields.io/badge/Google%20Cloud-Digital%20Leader-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google-Project%20Management-34A853?style=for-the-badge&logo=google&logoColor=white"/>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=TeddyGandon&show_icons=true&hide_border=true&bg_color=121216&title_color=D4A85A&icon_color=5FB3A8&text_color=E8D9B5&include_all_commits=true&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeddyGandon&layout=compact&hide_border=true&bg_color=121216&title_color=D4A85A&text_color=E8D9B5&langs_count=8" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TeddyGandon&hide_border=true&background=121216&ring=D4A85A&fire=D4A85A&currStreakLabel=D4A85A&sideLabels=E8D9B5&currStreakNum=E8D9B5&sideNums=E8D9B5&dates=8A8070&stroke=2a2418" />
-
-</div>
 
 ---
 
