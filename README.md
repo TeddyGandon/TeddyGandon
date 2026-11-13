@@ -5,16 +5,12 @@
 
 <br/>
 
-Thanks for stopping by. Grab a [resume](https://teddygandon.github.io/teddy-gandon-resume.pdf), read an [article](https://teddygandon.github.io/articles), or say hi on [LinkedIn](https://www.linkedin.com/in/teddygandon/). 👋
+Thanks for stopping by 👋
 
-<br/>
-
-<a href="https://teddygandon.github.io"><img src="https://img.shields.io/badge/Portfolio-121216?style=for-the-badge&logo=googlechrome&logoColor=D4A85A"/></a>
-<a href="https://www.linkedin.com/in/teddygandon/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://medium.com/believe-tech"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>
-<a href="https://teddygandon.github.io/teddy-gandon-resume.pdf"><img src="https://img.shields.io/badge/Resume-2a2418?style=for-the-badge&logo=readdotcv&logoColor=D4A85A"/></a>
-
-<img src="https://komarev.com/ghpvc/?username=TeddyGandon&label=Profile%20views&color=d4a85a&style=flat-square" />
+<a href="https://teddygandon.github.io"><img src="https://img.shields.io/badge/Portfolio-121216?style=for-the-badge&logo=googlechrome&logoColor=D4A85A"/></a> 
+<a href="https://www.linkedin.com/in/teddygandon/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
+<a href="https://medium.com/believe-tech"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/></a> 
+<a href="https://teddygandon.github.io/teddy-gandon-resume.pdf"><img src="https://img.shields.io/badge/Resume-2a2418?style=for-the-badge&logo=readdotcv&logoColor=D4A85A"/></a> 
 
 </div>
 
@@ -162,6 +158,8 @@ const teddy = {
 ---
 
 <div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=TeddyGandon&label=Profile%20views&color=d4a85a&style=flat-square" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1d3a3a,45:2a2418,100:121216&height=120&section=footer" width="100%"/>
 
